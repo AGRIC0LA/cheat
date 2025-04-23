@@ -1,0 +1,25 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterFunction: false
+  AfterClass: false
+  AfterStruct: false
+  AfterUnion: false
+  AfterNamespace: false
+AllowShortBlocksOnASingleLine: true
+AllowShortCaseLabelsOnASingleLine: true
+AllowShortIfStatementsOnASingleLine: true
+AllowShortLoopsOnASingleLine: true
+SpaceBeforeParens: ControlStatements
+SpaceAfterCStyleCast: true
+SpacesInParentheses: false
+SpacesInAngles: false
+SpaceBeforeSquareBrackets: false
+SpaceAfterSquareBrackets: false
+SpaceBeforeRangeBasedForLoopColon: true
+ColumnLimit: 0
+AllowShortFunctionsOnASingleLine: All
+ShortFunctionLines: 1

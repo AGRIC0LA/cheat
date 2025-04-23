@@ -1,0 +1,369 @@
+﻿  Проверка источников на наличие зависимостей модуля…
+  cvar.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(66,9): warning C4005: STATUS_WAIT_0: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2549,9):
+      см. предыдущее определение "STATUS_WAIT_0"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(223,9): warning C4005: STATUS_ABANDONED_WAIT_0: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2550,9):
+      см. предыдущее определение "STATUS_ABANDONED_WAIT_0"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(246,9): warning C4005: STATUS_USER_APC: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2551,9):
+      см. предыдущее определение "STATUS_USER_APC"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(282,9): warning C4005: STATUS_TIMEOUT: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2552,9):
+      см. предыдущее определение "STATUS_TIMEOUT"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(291,9): warning C4005: STATUS_PENDING: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2553,9):
+      см. предыдущее определение "STATUS_PENDING"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(747,9): warning C4005: DBG_EXCEPTION_HANDLED: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2554,9):
+      см. предыдущее определение "DBG_EXCEPTION_HANDLED"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(756,9): warning C4005: DBG_CONTINUE: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2555,9):
+      см. предыдущее определение "DBG_CONTINUE"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(831,9): warning C4005: STATUS_SEGMENT_NOTIFICATION: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2556,9):
+      см. предыдущее определение "STATUS_SEGMENT_NOTIFICATION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(994,9): warning C4005: STATUS_FATAL_APP_EXIT: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2557,9):
+      см. предыдущее определение "STATUS_FATAL_APP_EXIT"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1332,9): warning C4005: DBG_REPLY_LATER: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2558,9):
+      см. предыдущее определение "DBG_REPLY_LATER"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1350,9): warning C4005: DBG_TERMINATE_THREAD: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2559,9):
+      см. предыдущее определение "DBG_TERMINATE_THREAD"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1359,9): warning C4005: DBG_TERMINATE_PROCESS: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2560,9):
+      см. предыдущее определение "DBG_TERMINATE_PROCESS"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1368,9): warning C4005: DBG_CONTROL_C: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2561,9):
+      см. предыдущее определение "DBG_CONTROL_C"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1377,9): warning C4005: DBG_PRINTEXCEPTION_C: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2562,9):
+      см. предыдущее определение "DBG_PRINTEXCEPTION_C"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1386,9): warning C4005: DBG_RIPEXCEPTION: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2563,9):
+      см. предыдущее определение "DBG_RIPEXCEPTION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1395,9): warning C4005: DBG_CONTROL_BREAK: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2564,9):
+      см. предыдущее определение "DBG_CONTROL_BREAK"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1404,9): warning C4005: DBG_COMMAND_EXCEPTION: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2565,9):
+      см. предыдущее определение "DBG_COMMAND_EXCEPTION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1413,9): warning C4005: DBG_PRINTEXCEPTION_WIDE_C: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2566,9):
+      см. предыдущее определение "DBG_PRINTEXCEPTION_WIDE_C"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1445,9): warning C4005: STATUS_GUARD_PAGE_VIOLATION: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2567,9):
+      см. предыдущее определение "STATUS_GUARD_PAGE_VIOLATION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1456,9): warning C4005: STATUS_DATATYPE_MISALIGNMENT: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2568,9):
+      см. предыдущее определение "STATUS_DATATYPE_MISALIGNMENT"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1467,9): warning C4005: STATUS_BREAKPOINT: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2569,9):
+      см. предыдущее определение "STATUS_BREAKPOINT"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1478,9): warning C4005: STATUS_SINGLE_STEP: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2570,9):
+      см. предыдущее определение "STATUS_SINGLE_STEP"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1781,9): warning C4005: STATUS_LONGJUMP: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2571,9):
+      см. предыдущее определение "STATUS_LONGJUMP"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1808,9): warning C4005: STATUS_UNWIND_CONSOLIDATE: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2572,9):
+      см. предыдущее определение "STATUS_UNWIND_CONSOLIDATE"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(1923,9): warning C4005: DBG_EXCEPTION_NOT_HANDLED: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2573,9):
+      см. предыдущее определение "DBG_EXCEPTION_NOT_HANDLED"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2090,9): warning C4005: STATUS_ACCESS_VIOLATION: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2574,9):
+      см. предыдущее определение "STATUS_ACCESS_VIOLATION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2099,9): warning C4005: STATUS_IN_PAGE_ERROR: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2575,9):
+      см. предыдущее определение "STATUS_IN_PAGE_ERROR"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2117,9): warning C4005: STATUS_INVALID_HANDLE: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2576,9):
+      см. предыдущее определение "STATUS_INVALID_HANDLE"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2162,9): warning C4005: STATUS_INVALID_PARAMETER: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2577,9):
+      см. предыдущее определение "STATUS_INVALID_PARAMETER"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2262,9): warning C4005: STATUS_NO_MEMORY: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2578,9):
+      см. предыдущее определение "STATUS_NO_MEMORY"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2319,9): warning C4005: STATUS_ILLEGAL_INSTRUCTION: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2579,9):
+      см. предыдущее определение "STATUS_ILLEGAL_INSTRUCTION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2400,9): warning C4005: STATUS_NONCONTINUABLE_EXCEPTION: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2580,9):
+      см. предыдущее определение "STATUS_NONCONTINUABLE_EXCEPTION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(2409,9): warning C4005: STATUS_INVALID_DISPOSITION: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2581,9):
+      см. предыдущее определение "STATUS_INVALID_DISPOSITION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3342,9): warning C4005: STATUS_ARRAY_BOUNDS_EXCEEDED: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2582,9):
+      см. предыдущее определение "STATUS_ARRAY_BOUNDS_EXCEEDED"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3352,9): warning C4005: STATUS_FLOAT_DENORMAL_OPERAND: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2583,9):
+      см. предыдущее определение "STATUS_FLOAT_DENORMAL_OPERAND"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3362,9): warning C4005: STATUS_FLOAT_DIVIDE_BY_ZERO: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2584,9):
+      см. предыдущее определение "STATUS_FLOAT_DIVIDE_BY_ZERO"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3372,9): warning C4005: STATUS_FLOAT_INEXACT_RESULT: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2585,9):
+      см. предыдущее определение "STATUS_FLOAT_INEXACT_RESULT"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3382,9): warning C4005: STATUS_FLOAT_INVALID_OPERATION: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2586,9):
+      см. предыдущее определение "STATUS_FLOAT_INVALID_OPERATION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3392,9): warning C4005: STATUS_FLOAT_OVERFLOW: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2587,9):
+      см. предыдущее определение "STATUS_FLOAT_OVERFLOW"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3402,9): warning C4005: STATUS_FLOAT_STACK_CHECK: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2588,9):
+      см. предыдущее определение "STATUS_FLOAT_STACK_CHECK"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3412,9): warning C4005: STATUS_FLOAT_UNDERFLOW: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2589,9):
+      см. предыдущее определение "STATUS_FLOAT_UNDERFLOW"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3422,9): warning C4005: STATUS_INTEGER_DIVIDE_BY_ZERO: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2590,9):
+      см. предыдущее определение "STATUS_INTEGER_DIVIDE_BY_ZERO"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3432,9): warning C4005: STATUS_INTEGER_OVERFLOW: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2591,9):
+      см. предыдущее определение "STATUS_INTEGER_OVERFLOW"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(3442,9): warning C4005: STATUS_PRIVILEGED_INSTRUCTION: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2592,9):
+      см. предыдущее определение "STATUS_PRIVILEGED_INSTRUCTION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4388,9): warning C4005: STATUS_STACK_OVERFLOW: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2593,9):
+      см. предыдущее определение "STATUS_STACK_OVERFLOW"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4905,9): warning C4005: STATUS_DLL_NOT_FOUND: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2594,9):
+      см. предыдущее определение "STATUS_DLL_NOT_FOUND"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4934,9): warning C4005: STATUS_ORDINAL_NOT_FOUND: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2595,9):
+      см. предыдущее определение "STATUS_ORDINAL_NOT_FOUND"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4944,9): warning C4005: STATUS_ENTRYPOINT_NOT_FOUND: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2596,9):
+      см. предыдущее определение "STATUS_ENTRYPOINT_NOT_FOUND"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(4954,9): warning C4005: STATUS_CONTROL_C_EXIT: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2597,9):
+      см. предыдущее определение "STATUS_CONTROL_C_EXIT"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(5032,9): warning C4005: STATUS_DLL_INIT_FAILED: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2598,9):
+      см. предыдущее определение "STATUS_DLL_INIT_FAILED"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(6029,9): warning C4005: STATUS_CONTROL_STACK_VIOLATION: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2599,9):
+      см. предыдущее определение "STATUS_CONTROL_STACK_VIOLATION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7623,9): warning C4005: STATUS_FLOAT_MULTIPLE_FAULTS: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2600,9):
+      см. предыдущее определение "STATUS_FLOAT_MULTIPLE_FAULTS"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7633,9): warning C4005: STATUS_FLOAT_MULTIPLE_TRAPS: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2601,9):
+      см. предыдущее определение "STATUS_FLOAT_MULTIPLE_TRAPS"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(7765,9): warning C4005: STATUS_REG_NAT_CONSUMPTION: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2602,9):
+      см. предыдущее определение "STATUS_REG_NAT_CONSUMPTION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(8748,9): warning C4005: STATUS_HEAP_CORRUPTION: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2603,9):
+      см. предыдущее определение "STATUS_HEAP_CORRUPTION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(8976,9): warning C4005: STATUS_STACK_BUFFER_OVERRUN: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2604,9):
+      см. предыдущее определение "STATUS_STACK_BUFFER_OVERRUN"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(9103,9): warning C4005: STATUS_INVALID_CRUNTIME_PARAMETER: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2605,9):
+      см. предыдущее определение "STATUS_INVALID_CRUNTIME_PARAMETER"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(9166,9): warning C4005: STATUS_ASSERTION_FAILURE: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2606,9):
+      см. предыдущее определение "STATUS_ASSERTION_FAILURE"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10075,9): warning C4005: STATUS_ENCLAVE_VIOLATION: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2607,9):
+      см. предыдущее определение "STATUS_ENCLAVE_VIOLATION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10808,9): warning C4005: STATUS_INTERRUPTED: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2608,9):
+      см. предыдущее определение "STATUS_INTERRUPTED"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(10817,9): warning C4005: STATUS_THREAD_NOT_RUNNING: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2609,9):
+      см. предыдущее определение "STATUS_THREAD_NOT_RUNNING"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(11129,9): warning C4005: STATUS_ALREADY_REGISTERED: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2610,9):
+      см. предыдущее определение "STATUS_ALREADY_REGISTERED"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(15048,9): warning C4005: STATUS_SXS_EARLY_DEACTIVATION: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2612,9):
+      см. предыдущее определение "STATUS_SXS_EARLY_DEACTIVATION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntstatus.h(15057,9): warning C4005: STATUS_SXS_INVALID_DEACTIVATION: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2613,9):
+      см. предыдущее определение "STATUS_SXS_INVALID_DEACTIVATION"
+  
+C:\Users\zajedna\source\repos\Project1\Project1\windows\winStructs.h(2515,9): warning C4005: FLS_MAXIMUM_AVAILABLE: изменение макроопределения
+  (компиляция исходного файла "cvar.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(12270,9):
+      см. предыдущее определение "FLS_MAXIMUM_AVAILABLE"
+  
+C:\Users\zajedna\source\repos\Project1\Project1\mem.h(28,44): warning C4244: аргумент: преобразование "unsigned long" в "_Ty", возможна потеря данных
+C:\Users\zajedna\source\repos\Project1\Project1\mem.h(28,44): warning C4244:         with
+C:\Users\zajedna\source\repos\Project1\Project1\mem.h(28,44): warning C4244:         [
+C:\Users\zajedna\source\repos\Project1\Project1\mem.h(28,44): warning C4244:             _Ty=char
+C:\Users\zajedna\source\repos\Project1\Project1\mem.h(28,44): warning C4244:         ]
+  (компиляция исходного файла "cvar.cpp")
+  
+C:\Users\zajedna\source\repos\Project1\Project1\il2cpp\il2cpp_dict.hpp(67,88): warning C4267: аргумент: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+  (компиляция исходного файла "cvar.cpp")
+  
+C:\Users\zajedna\source\repos\Project1\Project1\il2cpp\il2cpp_dict.hpp(82,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "cvar.cpp")
+  
+C:\Users\zajedna\source\repos\Project1\Project1\cvar.cpp(11,13): error C2280: "c_Movement::c_Movement(void)": предпринята попытка ссылки на удаленную функцию
+      C:\Users\zajedna\source\repos\Project1\Project1\features\movement.h(17,1):
+      в этом месте создано компилятором: "c_Movement::c_Movement"
+      C:\Users\zajedna\source\repos\Project1\Project1\features\movement.h(17,1):
+      "c_Movement::c_Movement(void)": функция неявно удалена, так как в элемент данных "c_Movement::noclip_bind" не содержится соответствующий конструктор по умолчанию или разрешение перегрузки было неоднозначным.
+      C:\Users\zajedna\source\repos\Project1\Project1\features\movement.h(7,9):
+       см. объявление "c_Movement::noclip_bind"
+  
+C:\Users\zajedna\source\repos\Project1\Project1\cvar.cpp(23,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\zajedna\source\repos\Project1\Project1\cvar.cpp(23,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  movement.cpp
+C:\Users\zajedna\source\repos\Project1\Project1\windows\winStructs.h(2515,9): warning C4005: FLS_MAXIMUM_AVAILABLE: изменение макроопределения
+  (компиляция исходного файла "features/movement.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(12270,9):
+      см. предыдущее определение "FLS_MAXIMUM_AVAILABLE"
+  
+C:\Users\zajedna\source\repos\Project1\Project1\mem.h(28,44): warning C4244: аргумент: преобразование "unsigned long" в "_Ty", возможна потеря данных
+C:\Users\zajedna\source\repos\Project1\Project1\mem.h(28,44): warning C4244:         with
+C:\Users\zajedna\source\repos\Project1\Project1\mem.h(28,44): warning C4244:         [
+C:\Users\zajedna\source\repos\Project1\Project1\mem.h(28,44): warning C4244:             _Ty=char
+C:\Users\zajedna\source\repos\Project1\Project1\mem.h(28,44): warning C4244:         ]
+  (компиляция исходного файла "features/movement.cpp")
+  
+C:\Users\zajedna\source\repos\Project1\Project1\il2cpp\il2cpp_dict.hpp(67,88): warning C4267: аргумент: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+  (компиляция исходного файла "features/movement.cpp")
+  
+C:\Users\zajedna\source\repos\Project1\Project1\il2cpp\il2cpp_dict.hpp(82,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "features/movement.cpp")
+  

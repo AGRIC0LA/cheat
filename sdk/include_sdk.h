@@ -1,0 +1,32 @@
+#pragma once
+#include "Windows.h"
+const uintptr_t module_base = reinterpret_cast<uintptr_t>(GetModuleHandleA("GameAssembly.dll"));
+using update_t = void(*)(uintptr_t);
+#include "vectorAndEtc.hpp"
+#include <cstdint>
+#include "../il2cpp/include_il2cpp.h"
+#include "init.h"
+using namespace il2cpp_sdk_gen;
+#include "UnityEngine/UnityEngine/Transform.hpp"
+#include "UnityEngine/UnityEngine/GameObject.hpp"
+#include "UnityEngine/UnityEngine/Camera.hpp"
+#include "UnityEngine/UnityEngine/Screen.hpp"
+#include "UnityEngine/UnityEngine/Component.hpp"
+#include "UnityEngine/UnityEngine/Input.hpp"
+#include "UnityEngine/UnityEngine/Physics.hpp"
+#include "GameClasses/ReferenceHub.hpp" 
+#include "GameClasses/NicknameSync.hpp"
+#include "GameClasses/PlayerRoles/PlayerRoleManager.hpp"
+#include "GameClasses/PlayerRoles/PlayerRoleBase.hpp"
+#include "GameClasses/HitboxIdentity.hpp"
+#include "GameClasses/InventorySystem_Items_Firearms_Modules_Misc/ShotBacktrackData.hpp"
+#include "GameClasses/TeslaGate.hpp"
+#include "GameClasses/PlayerRoles/PlayerRolesUtils.hpp"
+#include "GameClasses/PlayerRoles_FirstPersonControl_Thirdperson/CharacterModel.hpp"
+#include "GameClasses/MapGeneration/RoomIdentifier.hpp"
+#include "GameClasses/RoomLightController.hpp"
+#include "GameClasses/InventorySystem_Items_Pickups/PickupStandardPhysics.hpp"
+#include "GameClasses/InventorySystem_Items_Pickups/ItemPickupBase.hpp"
+#include "GameClasses/InventorySystem_Items_Pickups/PickupSyncInfo.hpp"
+#include "GameClasses/InventorySystem_Items_Firearms_Modules/AutomaticActionModule.hpp"
+#include "GameClasses/PlayerRoles_FirstPersonControl/FirstPersonMovementModule.hpp"
